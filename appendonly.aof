@@ -1,0 +1,4 @@
+SET name Krishna
+SET temp 123
+EXPIRE temp 5
+DEL temp
